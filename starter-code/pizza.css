@@ -98,6 +98,8 @@ body {
   color: #888;
 }
 
+.btn .btn-pepperonni  {}
+
 /* Imitate a pressed effect for buttons */
 .btn:active {
   top: 5px;
@@ -1036,4 +1038,9 @@ footer a:hover {
     footer {
         margin: 70px 0 10px 0;
     }
+}
+
+
+.hidden {
+    visibility: hidden;
 }
